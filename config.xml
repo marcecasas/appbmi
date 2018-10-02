@@ -23,7 +23,7 @@
 <icon src="icona2.png" platform="android" qualifier="hdpi" />
 
 <access origin="+" />
-<plugin name="cordova-plugin-whitelist" source"npm" />
+<plugin name="cordova-plugin-whitelist" source="npm" />
 <allow-navigation href="*;//*getskeleton.com/*" />
 </widget>
 
